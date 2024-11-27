@@ -1,0 +1,29 @@
+h1{
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+button{
+    background-color: #0000ff;
+    padding-inline: 80px;
+    padding-block: 30px;
+    font-size: 13.3333px;
+    margin-top: 20px;
+    border: solid black 1px;
+    color: #FFF;
+    transition: all .1s;
+    margin-bottom: 30px;
+}
+button:hover{
+    background-color: RGB(0, 128, 0);
+
+}
+#Quote {
+    font-size: 
+    35px; 
+}
+
+#Author {
+    font-size: 
+    35px; 
+}
